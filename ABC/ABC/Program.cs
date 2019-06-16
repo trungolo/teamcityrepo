@@ -10,7 +10,7 @@ namespace ABC
     {
         static void Main(string[] args)
         {
-            Console.Write("Hello World");
+            Console.Write("Hello Wld");
             Console.Write("Hello World");
             Console.ReadKey();
         }
