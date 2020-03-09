@@ -14,6 +14,9 @@ namespace ABC
             Console.Write("Additional line");
             Console.Write("Welcome in Feature 7");
             Console.ReadKey();
+			var z = 0;
+			
+			var t = 3;
         }
     }
 }
